@@ -13,3 +13,7 @@ Git is a version control system that is used to keep track our code. Github is p
 # Learing Branching (Merging and Rebase)
 
 I have to learn about branch, branches merging and rebasing.
+
+# Learing Branching Case 2
+
+In this, I create a feature/case2 branch from main branch and then both of the branches has commits.
