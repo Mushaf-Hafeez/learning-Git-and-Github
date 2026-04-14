@@ -17,3 +17,7 @@ I have to learn about branch, branches merging and rebasing.
 # Learing Branching Case 2
 
 In this, I create a feature/case2 branch from main branch and then both of the branches has commits.
+
+# Learing (Create New Branch Case 3)
+
+In this, I create a feature/case3 branch from feature/case2.
